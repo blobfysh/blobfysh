@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+✨ Discord: blobfysh#4679
+
 <!--
 **blobfysh/blobfysh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
